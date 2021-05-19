@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JavaScript web development
 - 📫 How to reach me:FACEBOOK Leonardo Bloch
 
+react css3 html5 javascript postgresql nodejs
